@@ -1,6 +1,5 @@
 # slides
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+.
 
 this is cherri unblocked
 the only unblocked proxy you need made for unblocked games and broswer
